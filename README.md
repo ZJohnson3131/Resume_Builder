@@ -1,5 +1,15 @@
-# Resume_Builder
+# Living Resume Platform
 
-This will be used to display different software skills including microservice architecture, containerised module production, CI/CD pipelines, frontend web-app development, and deployment to a public facing UI. 
+This repository contains a web-based application designed to act as a living resume and software engineering showcase.
 
-It will be a constant work in progress and can be used alongside a resume to display skills and knowledge with regards to a range of programming and software practices. 
+The platform is intended to demonstrate practical skills in:
+- Backend API development (Python)
+- Frontend web application development (React)
+- Micro-architecture and service separation
+- Containerisation using Docker
+- CI/CD pipelines using GitHub Actions
+- Deployment to a public-facing environment
+
+The project is developed incrementally using industry-standard software engineering practices and is intentionally structured to mirror real-world production systems.
+
+This repository is a work in progress and will evolve over time as new features and architectural components are added.
